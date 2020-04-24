@@ -3,7 +3,7 @@
 # (Click on images to be directed to YouTube video)
 Graduating in 2020 from the University of Sheffield with a 2:1 BSc Computer Science degree.
 
-Email: [DanielRyder98@gmail.com](DanielRyder98@gmail.com)
+Email: <DanielRyder98@gmail.com>
 
 Phone: [07482 246 205](07482246205)
 
