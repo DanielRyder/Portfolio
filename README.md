@@ -10,7 +10,7 @@ Phone: [07482246205](07482246205)
 ## Dissertation Project: Virtual 3D Weapon Assembly and Usage in VR (2019/20)
 This project was completed using Unity and C# for the final year project component of my degree from the University of Sheffield under supervision from Dr Steve Maddock.
 
-Using a VR headset and controllers the player is tasked with assembling weapons from their constituent parts.  Once completed they can then use the weapon again a set of targets or enemies.
+Using a VR headset and controllers the player is tasked with assembling weapons from their constituent parts.  Once completed they can use the weapon again a set of targets or enemies.
 
 This project involved the use of 3D math for calculating assembly connections between parts, recursive graph searching algorithms to monitor sub-assemblies, object searching using raycasts and innovative designs for user interfaces in VR.
 
@@ -20,9 +20,9 @@ This project involved the use of 3D math for calculating assembly connections be
 -----
 
 ## Sheff Jam 7 Winning Game: Asymmetrical Multiplayer City Builder/Dodging Runner (2020)
-I was part of the team that produced the winning game for Sheff Jam 7, a annual 48 hour game jam competition open to University of Sheffield students.
+I was part of the team that produced the winning game for Sheff Jam 7, an annual 48 hour game jam competition open to University of Sheffield students.
 
-It uses a node.js server, javascript and html to allow for two players to play online with each other playing seperate roles with different mechanics but still affecting the same game.
+The game uses a node.js server, javascript and html to allow for two players to play online with each other playing seperate roles with different mechanics but still affecting the same game.
 
 I was responsible for the initial game design, creating all of the music and the artwork, parts of the backend server work and the city building (human) game.
 
