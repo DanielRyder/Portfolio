@@ -19,7 +19,7 @@ This project involved the use of 3D math for calculating assembly connections be
 
 -----
 
-## Sheff Jam 7 Winning Game: Asymetrical Multiplayer City Builder/Dodging Runner (2020)
+## Sheff Jam 7 Winning Game: Asymmetrical Multiplayer City Builder/Dodging Runner (2020)
 I was part of the team that produced the winning game for Sheff Jam 7, a annual 48 hour game jam competition open to University of Sheffield students.
 
 It uses a node.js server, javascript and html to allow for two players to play online with each other playing seperate roles with different mechanics but still affecting the same game.
