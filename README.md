@@ -39,7 +39,7 @@ This project used C++ and an ESP32 to remotely control the robot using a browser
 
 -----
 
-## Engineering You're Hired Winning Project: Sea Plough
+## Engineering You're Hired Winning Project: Sea Plough (2019)
 Engineering You’re Hired is a week long full time project in which you and a group of engineers all from different disciplines work together to come up with a solution to an engineering problem.  
 
 When tasked with reducing plastic pollution we proposed a sea plough to be deployed in the great pacific garbage patch.  
