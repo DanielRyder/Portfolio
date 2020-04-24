@@ -56,7 +56,9 @@ Showing this demo and presenting the solution to an industry expert we won the a
 -----
 
 ## A-Level Project: Local Multiplayer 2D Archery Game (2015/16)
-This game was made for my A-level in computing in Unity using C#.  With controller support it lets up to four players move and jump around a level trying to shoot each other with arrows.  It is a physics based game and also has a quiz component that lets the player gain powerups by answering questions correctly.
+This game was made for my A-level in computing in Unity using C#.  With controller support it lets up to four players move and jump around a level trying to shoot each other with arrows.  
+
+It is a physics based game and also has a quiz component that lets the player gain powerups by answering questions correctly.
 
 
 [![](http://img.youtube.com/vi/K04qXVVfbco/0.jpg)](http://www.youtube.com/watch?v=K04qXVVfbco "A-Level Project: Local Multiplayer 2D Archery Game (2015/16)")
