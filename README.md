@@ -1,5 +1,6 @@
 # Daniel Ryder: Portfolio of game making and programming work
 Graduating in 2020 from the University of Sheffield with a 2:1 BSc Computer Science degree.
+
 Email: [DanielRyder98@gmail.com](DanielRyder98@gmail.com)
 
 # Dissertation Project: Virtual 3D Weapon Assembly and Usage in VR
