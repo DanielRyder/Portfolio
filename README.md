@@ -12,7 +12,7 @@ This project was completed using Unity and C# for the final year project compone
 
 Using a VR headset and controllers the player is tasked with assembling weapons from their constituent parts.  Once completed they can then use the weapon again a set of targets or enemies.
 
-This project involved the use of 3D math for calculating assembly connections between parts, reccursive graph searching algorithms to monitor sub-assemblies, object searching using raycasts and innovative designs for user interfaces in VR.
+This project involved the use of 3D math for calculating assembly connections between parts, recursive graph searching algorithms to monitor sub-assemblies, object searching using raycasts and innovative designs for user interfaces in VR.
 
 
 [![](http://img.youtube.com/vi/PGRLSYZBJvg/0.jpg)](http://www.youtube.com/watch?v=PGRLSYZBJvg "Virtual 3D Weapon Assembly and Usage in VR")
