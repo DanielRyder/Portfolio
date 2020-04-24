@@ -64,7 +64,7 @@ It is a physics based game and also has a quiz component that lets the player ga
 [![](http://img.youtube.com/vi/K04qXVVfbco/0.jpg)](http://www.youtube.com/watch?v=K04qXVVfbco "A-Level Project: Local Multiplayer 2D Archery Game (2015/16)")
 
 
-## 3D Graphics Module: OpenGL Snowman
+## 3D Graphics Module: OpenGL Snowman (2019)
 In this module I was tasked with creating a 3D snowman from scratch using OpenGL.  There is a user interface which can control the animations and lighting.
 
 [![](http://img.youtube.com/vi/hGGwrYHT39k/0.jpg)](http://www.youtube.com/watch?v=hGGwrYHT39k "3D Graphics Module: OpenGL Snowman")
