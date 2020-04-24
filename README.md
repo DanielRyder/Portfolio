@@ -17,6 +17,7 @@ This project involved the use of 3D math for calculating assembly connections be
 
 [![](http://img.youtube.com/vi/PGRLSYZBJvg/0.jpg)](http://www.youtube.com/watch?v=PGRLSYZBJvg "Virtual 3D Weapon Assembly and Usage in VR")
 
+-----
 
 ## Sheff Jam 7 Winning Game: Asymetrical Multiplayer City Builder/Dodging Runner (2020)
 I was part of the team that produced the winning game for Sheff Jam 7, a annual 48 hour game jam competition open to University of Sheffield students.
@@ -28,6 +29,7 @@ I was responsible for the initial game design, creating all of the music and the
 
 [![](http://img.youtube.com/vi/dilC6cnR7tY/0.jpg)](http://www.youtube.com/watch?v=dilC6cnR7tY "Sheff Jam 7 Winning Game: Asymetrical Multiplayer City Builder/Dodging Runner")
 
+-----
 
 ## Internet of Things 3rd Year Module: Wireless Robot (2019)
 This project used C++ and an ESP32 to remotely control the robot using a browser application that was connected to to a hotspot that the ESP32 was hosting.
@@ -35,7 +37,7 @@ This project used C++ and an ESP32 to remotely control the robot using a browser
 
 [![](http://img.youtube.com/vi/W7kPh1Rfnyw/0.jpg)](http://www.youtube.com/watch?v=W7kPh1Rfnyw "Internet of Things: Wireless Robot")
 
-
+-----
 
 ## A-Level Project: Local Multiplayer 2D Archery Game (2015/16)
 This game was made for my A-level in computing in Unity using C#.  With controller support it lets up to four players move and jump around a level trying to shoot each other with arrows.  It is a physics based game and also has a quiz component that lets the player gain powerups by answering questions correctly.
