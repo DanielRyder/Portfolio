@@ -7,7 +7,7 @@ Email: [DanielRyder98@gmail.com](DanielRyder98@gmail.com)
 Using Unity, C# and the Oculus Rift, this project was completed for the final year project part of my degree under the supervision of Dr Steve Maddock.
 
 
-<div align="center">[![](http://img.youtube.com/vi/PGRLSYZBJvg/0.jpg)](http://www.youtube.com/watch?v=PGRLSYZBJvg "Virtual 3D Weapon Assembly and Usage in VR")</div>
+[![](http://img.youtube.com/vi/PGRLSYZBJvg/0.jpg)](http://www.youtube.com/watch?v=PGRLSYZBJvg "Virtual 3D Weapon Assembly and Usage in VR")
 
 
 # Internet of Things: Wireless Robot
