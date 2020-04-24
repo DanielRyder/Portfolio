@@ -39,6 +39,22 @@ This project used C++ and an ESP32 to remotely control the robot using a browser
 
 -----
 
+## Engineering You're Hired Winning Project: Sea Plough
+Engineering You’re Hired is a week long full time project in which you and a group of engineers all from different disciplines work together to come up with a solution to an engineering problem.  
+
+When tasked with reducing plastic pollution we proposed a sea plough to be deployed in the great pacific garbage patch.  
+
+After winning the professionalism and best proposal award on the Wednesday for our initial presentation I worked on a 3D interactable demo of what a sea plough might look like using the Unity game engine and C#.
+
+The boat responds to the waves using vertex normals to calculate forces to be applied, and the boat can be driven from a 3rd person and 1st person view.
+
+Showing this demo and presenting the solution to an industry expert we won the award for the best solution.
+
+
+[![](http://img.youtube.com/vi/OqhCJ8RmsYs/0.jpg)](http://www.youtube.com/watch?v=OqhCJ8RmsYs "Engineering You're Hired Winning Project: Sea Plough")
+
+-----
+
 ## A-Level Project: Local Multiplayer 2D Archery Game (2015/16)
 This game was made for my A-level in computing in Unity using C#.  With controller support it lets up to four players move and jump around a level trying to shoot each other with arrows.  It is a physics based game and also has a quiz component that lets the player gain powerups by answering questions correctly.
 
