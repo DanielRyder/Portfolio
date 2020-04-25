@@ -26,6 +26,12 @@ The game uses a node.js server, javascript and html to allow for two players to 
 
 I was responsible for the initial game design, creating all of the music and the artwork, parts of the backend server work and the city building (human) game.
 
+The world is procedurally generated for each game over a 2D grid which is projected differently for the different player roles.
+
+The human can either try to build a clean world, or use up the Earths natural resources and get enough money to escape to Mars.
+
+The sun tries to either help the play build a clean world, or destroy the structures destroying the planet.  Their task becomes increasingly difficult as more objects such as CO2 molocules and planes get in their way.
+
 
 [![](http://img.youtube.com/vi/dilC6cnR7tY/0.jpg)](http://www.youtube.com/watch?v=dilC6cnR7tY "Sheff Jam 7 Winning Game: Asymetrical Multiplayer City Builder/Dodging Runner")
 
