@@ -1,6 +1,6 @@
 # Daniel Ryder: Portfolio of Game Making and Wider Programming Work
 
-# (Click on images to be directed to YouTube video)
+# (Click on images to be directed to a YouTube video of the project)
 Graduating in 2020 from the University of Sheffield with a 2:1 BSc Computer Science degree.
 
 Email: <DanielRyder98@gmail.com>
