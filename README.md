@@ -37,11 +37,15 @@ The sun tries to either help the play build a clean world, or destroy the struct
 
 [![](http://img.youtube.com/vi/dilC6cnR7tY/0.jpg)](http://www.youtube.com/watch?v=dilC6cnR7tY "Sheff Jam 7 Winning Game: Asymmetrical Multiplayer City Builder/Dodging Runner")
 
+(click on image)
+
 -----
 ## Unreal Engine 4 Simple Runner Game (2020)
 This is a game I created in UE4 using C++ and blueprints.  The purpose of this project, and other small projects I have completed using UE4 and C++, is to learn rather that to develop a complete game.
 
 [![](http://img.youtube.com/vi/ZflQ0LOcMgc/0.jpg)](http://www.youtube.com/watch?v=ZflQ0LOcMgc "Unreal Engine 4 Simple Runner Game (2020)")
+
+(click on image)
 
 -----
 
@@ -50,6 +54,8 @@ This project used C++ and an ESP32 to remotely control a robot using a browser a
 
 
 [![](http://img.youtube.com/vi/W7kPh1Rfnyw/0.jpg)](http://www.youtube.com/watch?v=W7kPh1Rfnyw "Internet of Things: Wireless Robot")
+
+(click on image)
 
 -----
 
@@ -67,6 +73,8 @@ After showing this demo and presenting the solution to an industry expert we won
 
 [![](http://img.youtube.com/vi/OqhCJ8RmsYs/0.jpg)](http://www.youtube.com/watch?v=OqhCJ8RmsYs "Engineering You're Hired Winning Project: Sea Plough")
 
+(click on image)
+
 -----
 
 ## A-Level Project: Local Multiplayer 2D Archery Game (2015/16)
@@ -77,8 +85,12 @@ It is a physics based game and also has a quiz component that lets the player ga
 
 [![](http://img.youtube.com/vi/K04qXVVfbco/0.jpg)](http://www.youtube.com/watch?v=K04qXVVfbco "A-Level Project: Local Multiplayer 2D Archery Game (2015/16)")
 
+(click on image)
+
 
 ## 3D Graphics Module: OpenGL Snowman (2019)
 In this module I was tasked with creating a 3D snowman from scratch using OpenGL.  There is a user interface which can control the animations and lighting.
 
 [![](http://img.youtube.com/vi/hGGwrYHT39k/0.jpg)](http://www.youtube.com/watch?v=hGGwrYHT39k "3D Graphics Module: OpenGL Snowman")
+
+(click on image)
