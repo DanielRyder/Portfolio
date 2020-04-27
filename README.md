@@ -10,7 +10,7 @@ Phone: 07482 246 205
 ## Dissertation Project: Virtual 3D Weapon Assembly and Usage in VR (2019/20)
 This project was completed using Unity and C# for the final year project component of my degree from the University of Sheffield under supervision from Dr Steve Maddock.
 
-Using a VR headset and controllers the player is tasked with assembling weapons from their constituent parts.  Once completed they can use the weapon again a set of targets or enemies.
+Using a VR headset and controllers the player is tasked with assembling weapons from their constituent parts.  Once completed they can use the weapon against a set of targets or enemies.
 
 This project involved the use of 3D math for calculating assembly connections between parts, recursive graph searching algorithms to monitor sub-assemblies, object searching using raycasts and innovative designs for user interfaces in VR.
 
@@ -30,7 +30,7 @@ The world is procedurally generated for each game over a 2D grid which is projec
 
 The human can either try to build a clean world, or use up the Earths natural resources and get enough money to escape to Mars.
 
-The sun tries to either help the play build a clean world, or destroy the structures destroying the planet.  Their task becomes increasingly difficult as more objects such as CO2 molocules and planes get in their way.
+The sun tries to either help the play build a clean world, or destroy the structures destroying the planet.  Their task becomes increasingly difficult as more objects such as CO2 molecules and planes get in their way.
 
 
 [![](http://img.youtube.com/vi/dilC6cnR7tY/0.jpg)](http://www.youtube.com/watch?v=dilC6cnR7tY "Sheff Jam 7 Winning Game: Asymetrical Multiplayer City Builder/Dodging Runner")
@@ -38,7 +38,7 @@ The sun tries to either help the play build a clean world, or destroy the struct
 -----
 
 ## Internet of Things 3rd Year Module: Wireless Robot (2019)
-This project used C++ and an ESP32 to remotely control the robot using a browser application that was connected to to a hotspot that the ESP32 was hosting.
+This project used C++ and an ESP32 to remotely control a robot using a browser application that was connected to to a hotspot that the ESP32 was hosting.
 
 
 [![](http://img.youtube.com/vi/W7kPh1Rfnyw/0.jpg)](http://www.youtube.com/watch?v=W7kPh1Rfnyw "Internet of Things: Wireless Robot")
@@ -54,7 +54,7 @@ After winning the professionalism and best proposal award on the Wednesday for o
 
 The boat responds to the waves using vertex normals to calculate forces to be applied, and the boat can be driven from a 3rd person and 1st person view.
 
-Showing this demo and presenting the solution to an industry expert we won the award for the best solution.
+After showing this demo and presenting the solution to an industry expert we won the award for the best solution.
 
 
 [![](http://img.youtube.com/vi/OqhCJ8RmsYs/0.jpg)](http://www.youtube.com/watch?v=OqhCJ8RmsYs "Engineering You're Hired Winning Project: Sea Plough")
@@ -62,7 +62,7 @@ Showing this demo and presenting the solution to an industry expert we won the a
 -----
 
 ## A-Level Project: Local Multiplayer 2D Archery Game (2015/16)
-This game was made for my A-level in computing in Unity using C#.  With controller support it lets up to four players move and jump around a level trying to shoot each other with arrows.  
+This game was made as part of my A-level in computing using Unity and C#.  With controller support it lets up to four players move and jump around a level trying to shoot each other with arrows.  
 
 It is a physics based game and also has a quiz component that lets the player gain powerups by answering questions correctly.
 
