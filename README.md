@@ -17,7 +17,7 @@ This project involved the use of 3D math for calculating assembly connections be
 
 [![](http://img.youtube.com/vi/PGRLSYZBJvg/0.jpg)](http://www.youtube.com/watch?v=PGRLSYZBJvg "Virtual 3D Weapon Assembly and Usage in VR")
 
-(click on image)
+      (click on image)
 
 -----
 
