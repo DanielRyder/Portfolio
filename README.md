@@ -33,7 +33,7 @@ The human can either try to build a clean world, or use up the Earths natural re
 The sun tries to either help the play build a clean world, or destroy the structures destroying the planet.  Their task becomes increasingly difficult as more objects such as CO2 molecules and planes get in their way.
 
 
-[![](http://img.youtube.com/vi/dilC6cnR7tY/0.jpg)](http://www.youtube.com/watch?v=dilC6cnR7tY "Sheff Jam 7 Winning Game: Asymetrical Multiplayer City Builder/Dodging Runner")
+[![](http://img.youtube.com/vi/dilC6cnR7tY/0.jpg)](http://www.youtube.com/watch?v=dilC6cnR7tY "Sheff Jam 7 Winning Game: Asymmetrical Multiplayer City Builder/Dodging Runner")
 
 -----
 
