@@ -126,3 +126,19 @@ In this module I was tasked with creating a 3D snowman from scratch using OpenGL
 [Software Re-Engineering](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html)
 
 [The Intelligent Web](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3504.html)
+
+[Object Oriented Programming with Java](http://syllabus.cs.manchester.ac.uk/ugt/2018/COMP16121/)
+
+[Mathematical Techniques for Computer Science](http://studentnet.cs.manchester.ac.uk/ugt/2019/COMP11120/syllabus/)
+
+[Fundamentals of Computation](http://studentnet.cs.manchester.ac.uk/ugt/2019/COMP11212/syllabus/)
+
+[Fundamentals of Computer Engineering](http://studentnet.cs.manchester.ac.uk/ugt/2019/COMP12111/syllabus/)
+
+[Fundamentals of Computer Architecture](http://studentnet.cs.manchester.ac.uk/ugt/2019/COMP15111/syllabus/)
+
+[Fundamentals of Distributed Systems](http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP18112)
+
+[First Year Team Project](http://studentnet.cs.manchester.ac.uk/ugt/2019/COMP10120/syllabus/)
+
+[Operating Systems](http://studentnet.cs.manchester.ac.uk/ugt/2019/COMP15212/syllabus/)
