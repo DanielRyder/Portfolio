@@ -94,3 +94,26 @@ In this module I was tasked with creating a 3D snowman from scratch using OpenGL
 [![](http://img.youtube.com/vi/hGGwrYHT39k/0.jpg)](http://www.youtube.com/watch?v=hGGwrYHT39k "3D Graphics Module: OpenGL Snowman")
 
 (click on image)
+
+-----
+
+## Full List of Modules
+
+[Engineering You're Hired](https://www.sheffield.ac.uk/mecheng/prospectiveug/engineering-youre-hired)
+Software Hut
+Automata, Computation and Complexity
+Functional Programming
+Logic in Computer Science
+Human-Machine Interactino and Robotics
+Systems Design and Security
+Data Driven Computing
+Foundations of Computer Science
+Finance and Law for Engineers
+Cyber Security Team Project
+The Internet of Things
+3D Computer Graphics
+Managing Engineering Projects and Teams
+Dissertation Project
+Cognitive and Biomimetic Robotics
+Software Re-Engineering
+The Intelligent Web
