@@ -100,16 +100,29 @@ In this module I was tasked with creating a 3D snowman from scratch using OpenGL
 ## Full List of Modules
 
 [Engineering You're Hired](http://www.yourehired.group.shef.ac.uk/wp/)
+
 [Software Hut](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3420.html)
+
 [Automata, Computation and Complexity](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level2/com2109.html)
+
 [Functional Programming](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level2/com2108.html)
+
 [Logic in Computer Science](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level2/com2107.html)
+
 [Human-Machine Interaction and Robotics](https://www.sheffield.ac.uk/programmeregulationsfinder/unit?code=COM2009&org=SHEFFIELD&start=04-Feb-2019&loc=SHEFFIELD&cal=SPR%20SEM&year=2018)
+
 [Systems Design and Security](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3008.html)
+
 [Data Driven Computing](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3004.html)
+
 [Foundations of Computer Science](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1002.html)
+
 [Finance and Law for Engineers](https://www.sheffield.ac.uk/meng-engineering/current/modules/mgt388)
+
 [Cyber Security Team Project](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3527.html)
+
 [Cognitive and Biomimetic Robotics](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3528.html)
+
 [Software Re-Engineering](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html)
+
 [The Intelligent Web](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3504.html)
