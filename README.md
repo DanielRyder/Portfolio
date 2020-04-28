@@ -94,3 +94,9 @@ In this module I was tasked with creating a 3D snowman from scratch using OpenGL
 [![](http://img.youtube.com/vi/hGGwrYHT39k/0.jpg)](http://www.youtube.com/watch?v=hGGwrYHT39k "3D Graphics Module: OpenGL Snowman")
 
 (click on image)
+
+-----
+
+## Full List of Modules
+
+[Engineering You're Hired](http://www.yourehired.group.shef.ac.uk/wp/)
