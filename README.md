@@ -49,6 +49,9 @@ This is a game I created in UE4 using C++ and blueprints.  The purpose of this p
 
 -----
 
+## Crossfire Eagles Music Video
+I was contracted to make a music video using Unity and C# for the band Crossfire Eagles.  A video link will be made available once it has been officially released.
+
 ## Internet of Things 3rd Year Module: Wireless Robot (2019)
 This project used C++ and an ESP32 to remotely control a robot using a browser application that was connected to to a hotspot that the ESP32 was hosting.
 
